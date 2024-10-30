@@ -15,7 +15,7 @@ PySS（**Python Simple Syntax**）是一门专为特殊架构设计的编程语�
 
 ## 项目结构
 
-- `pyss_compiler.py`：PySS 编译器的主程序，包含了编译器的全部功能和 GUI 界面。
+- `PySS_P3_A01.py`：PySS 编译器的主程序，包含了编译器的全部功能和 GUI 界面。
 - `README.md`：项目的介绍文档，帮助您了解 PySS 的特性和使用方法。
 
 ## 安装与运行
@@ -24,21 +24,6 @@ PySS（**Python Simple Syntax**）是一门专为特殊架构设计的编程语�
 
 - **Python 3.x**
 - **tkinter 库**（通常随 Python 一起安装）
-
-### 运行编译器
-
-在命令行中进入项目目录并运行：
-
-```bash
-python pyss_compiler.py
-```
-
-如果您的系统中有多个 Python 版本，可能需要使用 `python3` 命令：
-
-```bash
-python3 pyss_compiler.py
-
-```
 
 ## 使用方法
 
